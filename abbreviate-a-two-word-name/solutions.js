@@ -11,6 +11,5 @@ function abbrevName(name){
       newName += name[i];
       };
     }
-    newName.toUpperCase();
-    return newName;
+    return newName.toUpperCase();
 };
