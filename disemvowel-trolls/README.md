@@ -1,4 +1,5 @@
 Problem:
 Given a string, remove all vowels.
 
-https://github.com/mattgdev/codewars/tree/master/disemvowel-trolls
+https://www.codewars.com/kata/disemvowel-trolls/train/javascript
+
