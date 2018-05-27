@@ -1,3 +1,3 @@
 Problem:
-Given a string, reverse the string.
+Given a string and an array of integers representing indices, capitalize all letters at the given indices
 https://www.codewars.com/kata/reversed-strings/train/javascript
